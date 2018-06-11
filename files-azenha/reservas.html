@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="pt-PT">
+
+<head>
+    <!-- Viewport -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <!-- Icone do separador -->
+    <link rel="shortcut icon" href="img/icons/mo.png" type="image/x-icon" />
+    <!-- Titulo de Site ( este titulo é o que aparece no browser ) -->
+    <title>Azenha Guest House | Foz do Arelho - Lagoa de Óbidos - Portugal</title>
+    <meta name="keywords" content="guesthouse, hotel, alojamento, estadia, ferias, quarto, quartos,  foz do arelho, portugal, obidos, caldas da rainha, leiria, lagoa de obidos, penedo furado, costa de prata" />
+    <meta name="description" content="A Azenha Guest House fica a apenas 5 min a pé da Lagoa e do Mar e a 10min dos restaurantes, bares, supermercados e outros serviços da Vila. O edifício, uma antiga azenha que servia de apoio à população para a moagem dos cereais, foi totalmente renovado e apresenta um toque de modernidade, embora mantendo a sua traça original. A Guest House oferece 4 quartos com terraço e uma sala comum com esplanada." />
+    <!-- Compativel com o Edge -->
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- Google fontes -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic%7cPlayfair+Display:400,700%7cGreat+Vibes' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Dancing+Script:700" rel="stylesheet">
+    <!-- Link dos Ficheiros Css-->
+    <link rel="stylesheet" type="text/css" href="css/styles-light.css">
+</head>
+
+<body class="booking book--back">
+    <div class="main-wrapper">
+        <section id="booking-section" class="step-1">
+            <div class="inner-container container">
+                <form id="room-information-form" action="bookingData.php" method="post">
+                    <div class="col-md-12 r-sec">
+                        <div class="inner-box">
+                            <div id="booking-guest-info-form">
+                                <div class="field-row clearfix">
+                                    <div class="col-md-6">
+                                        <input type="text" placeholder="Nome" name="firstName" required>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <input type="text" placeholder="Sobrenome" name="lastName" required>
+                                    </div>
+                                </div>
+                                <div class="field-row clearfix">
+                                    <div class="col-md-6">
+                                        <input type="text" placeholder="Telefone" name="phone" required>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <input type="email" placeholder="Email" name="email" required>
+
+                                    </div>
+                                </div>
+                                <div class="field-row clearfix">
+                                    <input type="text" placeholder="Morada" name="address">
+                                </div>
+                                <div class="field-row clearfix">
+                                    <textarea placeholder="Mensagem" name="message"></textarea>
+                                </div>
+                                <div class="field-row clearfix">
+                                    <div class="container">
+
+                                        <button class="show-modal open-modal">Ler Condições</button>
+                                        <div class="modal">
+                                            <a class="close-modal" href="#">X</a>
+                                            <div>
+                                                <img class="md--img" src="img/casa/condicoes.png">
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="ravis-checkbox">
+                                        <label for="terms-condition">
+                <input type="checkbox" name="terms" value="1" id="terms-condition" required>
+                <span></span>
+                Eu aceito
+                </label>
+                                    </div>
+                                </div>
+
+                                <div class="field-row btn-container clearfix">
+                                    <input class="by-email" type="submit" name="submit" value="Reservar" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </section>
+    </div>
+    <!-- Java Sript Links -->
+    <script type="text/javascript " src="js/jquery-3.1.0.min.js "></script>
+    <script type="text/javascript " src="js/helper.js "></script>
+    <script type="text/javascript " src="js/owl.carousel.min.js "></script>
+    <script type="text/javascript " src="js/select2.min.js "></script>
+    <script type="text/javascript " src="js/imagesloaded.pkgd.min.js "></script>
+    <script type="text/javascript " src="js/isotope.pkgd.min.js "></script>
+    <script type="text/javascript " src="js/jquery.magnific-popup.min.js "></script>
+    <script type="text/javascript " src="js/template.js "></script>
+    <script src="js/jquery.easing.min.js "></script>
+    <script src="js/scrolling-nav.js "></script>
+
+</body>
+
+
+</html>
