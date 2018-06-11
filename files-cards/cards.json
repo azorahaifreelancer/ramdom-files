@@ -1,0 +1,1092 @@
+{
+  "version": "0.0.1",
+  "autor": "nuno santos",
+  "lang": "english",
+  "source": "git hub",
+  "lastUpdate": "1,6,2018",
+  "url": "https://www.mtggoldfish.com/price/Shards+of+Alara/Woolly+Thoctar#online",
+  "url": "http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397445",
+  "coinType": "dolar",
+  "description": "my magic the gathreing stack cards for sale",
+  "cards": [{
+      "id": "1",
+      "name": "plain",
+      "price": "0.10",
+      "thumb": "plain.jpg",
+      "copy": "30",
+      "desc": [{
+        "color": "white",
+        "edition": "tempaste,",
+        "type": "land",
+        "mana": "1",
+        "description": "white mana cards"
+      }]
+    },
+    {
+      "id": "2",
+      "name": "swanp",
+      "price": "0.10",
+      "thumb": "swanp.jpg",
+      "copy": "30",
+      "desc": [{
+        "color": "black",
+        "edition": "tempaste",
+        "type": "land",
+        "mana": "1",
+        "description": "black mana cards"
+      }]
+    },
+    {
+      "id": "3",
+      "name": "mountain",
+      "price": "0.10",
+      "thumb": "mountain.jpg",
+      "copy": "30",
+      "desc": [{
+        "color": "red",
+        "edition": "tempaste",
+        "type": "land",
+        "mana": "1",
+        "description": "red mana cards"
+      }]
+    },
+    {
+      "id": "4",
+      "name": "florest",
+      "price": "0.10",
+      "thumb": "florest.jpg",
+      "copy": "30",
+      "desc": [{
+        "color": "green",
+        "edition": "tempaste",
+        "type": "land",
+        "mana": "1",
+        "description": "gree mana cards"
+      }]
+    },
+    {
+      "id": "5",
+      "name": "island",
+      "price": "0.10",
+      "thumb": "island.jpg",
+      "copy": "30",
+      "desc": [{
+        "color": "blue",
+        "edition": "tempest",
+        "type": "land",
+        "mana": "1",
+        "description": "blue mana cards"
+      }]
+    },
+    {
+      "id": "6",
+      "name": "Drifting Meadow",
+      "price": "0.18",
+      "thumb": "Drifting Meadow.jpg",
+      "copy": "3",
+      "desc": [{
+        "color": "white",
+        "edition": "Urzas Saga",
+        "type": "special land",
+        "mana": "",
+        "rarity": "common",
+        "description": "Drifting Meadow enters the battlefield tapped.
+        Tap: Add White.
+        Cycling 2(2 Discard this card: Draw a card.)
+        "
+      }]
+    },
+
+    {
+      "id": "7",
+      "name": "Remote Isle",
+      "price": "0.25",
+      "thumb": "Remote Isle.jpg",
+      "copy": "4",
+      "desc": [{
+        "color": "blue",
+        "edition": "Urzas Saga",
+        "type": "special land",
+        "mana": "",
+        "rarity": "common",
+        "description": "Remote Isle enters the battlefield tapped.
+        Tap: Add Blue.
+        Cycling 2(2, Discard this card: Draw a card.)
+        "
+      }]
+    },
+    {
+      "id": "8",
+      "name": "Spawning Pool",
+      "price": "0.28",
+      "thumb": "Spawning Pool.jpg",
+      "copy": "2",
+      "desc": [{
+          "color": "black",
+          "edition": "Urzas Legacy",
+          "type": "special land",
+          "mana": "",
+          "rarity": "uncommon",
+          "description": "Spawning Pool enters the battlefield tapped.
+          Tap: Add Black.
+          1 Black: Spawning Pool becomes a 1 / 1 black Skeleton creature with 'Black: Regenerate this creature.'
+          until end of turn.It 's still a land. (If it regenerates, the next time it would be destroyed this turn, it isn'
+          t.Instead tap it,
+          remove all damage from it,
+          and remove it from combat.)
+        "
+      }]
+  },
+  {
+    "id": "9",
+    "name": "Forbidding Watchtower",
+    "price": "0.39",
+    "thumb": "Forbidding Watchtower.jpg",
+    "copy": "2",
+    "desc": [{
+      "color": "white",
+      "edition": "Urzas Legacy",
+      "type": "special land",
+      "mana": "",
+      "rarity": "uncommon",
+      "description": "Forbidding Watchtower enters the battlefield tapped.
+      Tap: Add White.
+      1 White: Forbidding Watchtower becomes a 1 / 5 white Soldier creature until end of turn.It 's still a land."
+    }]
+  },
+  {
+    "id": "10",
+    "name": "Ghitu Encampment",
+    "price": "0.25",
+    "thumb": "Ghitu Encampment.jpg",
+    "copy": "1",
+    "desc": [{
+      "color": "red",
+      "edition": "Urzas Legacy",
+      "type": "special land",
+      "mana": "",
+      "rarity": "uncommon",
+      "description": "
+      Ghitu Encampment enters the battlefield tapped.
+      Tap: Add Red.
+      1 Red: Ghitu Encampment becomes a 2 / 1 red Warrior creature with first strike until end of turn.It 's still a land. (It deals combat damage before creatures without first strike.)"
+    }]
+  },
+  {
+    "id": "11",
+    "name": "Cinder Marsh",
+    "price": "0.21",
+    "thumb": "Cinder Marsh.jpg",
+    "copy": "3",
+    "desc": [{
+      "color": "black red",
+      "edition": "tempest",
+      "type": "special land",
+      "mana": "",
+      "rarity": "uncommon",
+      "description": "
+      Tap: Add Colorless.
+      Tap: Add Black or Red.Cinder Marsh doesn 't untap during your next untap step."
+    }]
+  },
+  {
+    "id": "12",
+    "name": "Jungle Shrine",
+    "price": "0.67",
+    "thumb": "Jungle Shrine.jpg",
+    "copy": "4",
+    "desc": [{
+      "color": "red green white",
+      "edition": "shards of alara",
+      "type": "special land",
+      "mana": "",
+      "rarity": "uncommon",
+      "description": "Jungle Shrine enters the battlefield tapped.
+      Tap: Add Red,
+      Green,
+      or White.
+      "
+    }]
+  },
+  {
+    "id": "13",
+    "name": "Crumbling Necropolis",
+    "price": "0.69",
+    "thumb": "Crumbling Necropolis.jpg",
+    "copy": "2",
+    "desc": [{
+      "color": "blue black red",
+      "edition": "shards of alara",
+      "type": "special land",
+      "mana": "",
+      "rarity": "uncommon",
+      "description": "
+      Crumbling Necropolis enters the battlefield tapped.
+      Tap: Add Blue,
+      Black,
+      or Red.
+      "
+    }]
+  },
+  {
+    "id": "14",
+    "name": "Arcane Sanctum",
+    "price": "0.97",
+    "thumb": "Arcane Sanctum.jpg",
+    "copy": "1",
+    "desc": [{
+      "color": "white blue black",
+      "edition": "shards of alara",
+      "type": "special land",
+      "mana": "",
+      "rarity": "uncommon",
+      "description": "
+      Arcane Sanctum enters the battlefield tapped.
+      Tap: Add White,
+      Blue,
+      or Black.
+      "
+    }]
+  },
+  {
+    "id": "15",
+    "name": "Esper Panorama",
+    "price": "0.24",
+    "thumb": "Esper Panorama.jpg",
+    "copy": "4",
+    "desc": [{
+      "color": "uncolor",
+      "edition": "shards of alara",
+      "type": "special land",
+      "mana": "",
+      "rarity": "common",
+      "description": "Tap: Add Colorless.
+      1,
+      Tap,
+      Sacrifice Esper Panorama: Search your library
+      for a basic Plains,
+      Island,
+      or Swamp card and put it onto the battlefield tapped.Then shuffle your library.
+      "
+    }]
+  },
+  {
+    "id": "17",
+    "name": "Maze of Shadows",
+    "price": "0.20",
+    "thumb": "Maze of Shadows",
+    "copy": "2",
+    "desc": [{
+      "color": "incolor",
+      "edition": "tempest",
+      "type": "special land",
+      "mana": "",
+      "rarity": "uncommon",
+      "description": "Tap: Add Colorless.
+      Tap: Untap target attacking creature with shadow.Prevent all combat damage that would be dealt to and dealt by that creature this turn.
+      "
+    }]
+  },
+  {
+    "id": "18",
+    "name": "Gwendlyn Di Corci",
+    "price": [{
+      "L": "$120.00",
+      "M": "$142.09",
+      "H": "$199.99"
+    }],
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "multicolor",
+      "edition": "",
+      "type": "multicolor card",
+      "mana": "321",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "artfact",
+      "mana": "32",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "artfact",
+      "mana": "3",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "artfact",
+      "mana": "4",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "artfact",
+      "mana": "5",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "artfact",
+      "mana": "6",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "artfact",
+      "mana": "7",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "artfact",
+      "mana": "8",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  },
+  {
+    "id": "",
+    "name": "",
+    "price": "",
+    "thumb": "",
+    "copy": "",
+    "desc": [{
+      "color": "",
+      "edition": "",
+      "type": "",
+      "mana": "",
+      "description": ""
+    }]
+  }]
+}

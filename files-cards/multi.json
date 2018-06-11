@@ -1,0 +1,103 @@
+{
+  "version": "0.0.1",
+  "autor": "nuno santos",
+  "lang": "english",
+  "source": "git hub",
+  "lastUpdate": "1,6,2018",
+  "url": "https://magiccards.info/query?q=gwendlyn+di+corci&v=card&s=cname",
+  "coinType": "dolar",
+  "description": "my magic the gathreing stack cards for sale",
+  "cards": [{
+      "id": "1",
+      "name": "Gwendlyn Di Corci",
+      "price": [{
+        "L": "$120.00",
+        "M": "$142.09",
+        "H": "$199.99"
+      }],
+      "thumb": "Gwendlyn Di Corci.jpg",
+      "copy": "1",
+      "desc": [{
+        "lang": "Italian",
+        "color": "Multicolor",
+        "edition": "Legends",
+        "rarity": "Rare",
+        "type": "Legendary Creature — Human Rogue 3/5, UBBR (4)",
+        "description": "t: Target player discards a card at random. Activate this ability only during your turn."
+      }]
+    },
+    {
+      "id": "2",
+      "name": "Goblin degli Acquitrini",
+      "price": [{
+        "L": "$0.05",
+        "M": "$0.17",
+        "H": "$0.95"
+      }],
+      "thumb": "Goblin degli Acquitrini.jpg",
+      "copy": "2",
+      "desc": [{
+        "lang": "Italian",
+        "color": "Multicolor",
+        "edition": " L'Oscurità",
+        "rarity": "Common",
+        "type": "Creature — Goblin 1/1, BR (2)",
+        "description": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)"
+      }]
+    },
+    {
+      "id": "3",
+      "name": "Cuore Tenebroso del Bosco",
+      "price": [{
+        "L": "$0.05",
+        "M": "$0.22",
+        "H": "$1.18"
+      }],
+      "thumb": "Cuore Tenebroso del Bosco.jpg",
+      "copy": "1",
+      "desc": [{
+        "color": "Multicolor",
+        "edition": " L'Oscurità",
+        "rarity": "Common",
+        "type": "Enchantment, BG (2)",
+        "description": "Sacrifice a Forest: You gain 3 life."
+      }]
+    },
+    {
+      "id": "3",
+      "name": "Dragonete da Tormenta",
+      "price": [{
+        "L": "$0.04",
+        "M": "$0.24",
+        "H": "$0.96"
+      }],
+      "thumb": "Dragonete da Tormenta.jpg",
+      "copy": "2",
+      "desc": [{
+        "color": "Multicolor",
+        "edition": "Visions",
+        "rarity": "UnCommon",
+        "type": "Creature — Drake 2/2, 1WU (3)",
+        "description": "Flying, vigilance."
+      }]
+    },
+    {
+      "id": "",
+      "name": "",
+      "price": [{
+        "L": "",
+        "M": "",
+        "H": ""
+      }],
+      "thumb": "",
+      "copy": "",
+      "desc": [{
+        "color": "",
+        "edition": "",
+        "rarity": "",
+        "type": "",
+        "description": ""
+      }]
+    }
+  ]
+}
